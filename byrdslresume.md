@@ -1,9 +1,7 @@
 # Steven L. Byrd
 
-43 Harrington st.
-San Francisco, CA 94112
-(303)-475-3770
-byrdsl@gmail.com
+
+byrdsl (at) gmail.com
 http://www.linkedin.com/in/stevenlbyrd
 http://www.github.com/byrdsl
 
