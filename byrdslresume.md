@@ -2,7 +2,9 @@
 
 
 byrdsl (at) gmail.com
+
 http://www.linkedin.com/in/stevenlbyrd
+
 http://www.github.com/byrdsl
 
 ## Education
